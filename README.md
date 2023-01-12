@@ -6,4 +6,4 @@ In this project, I've used linear and polynomial regression for predicting house
 
 Notice: I've used train/test split instead of train/dev/test!
 
-Hope you find it useful!
+Hope to find it useful!
