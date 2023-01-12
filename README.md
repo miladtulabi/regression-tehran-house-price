@@ -1,4 +1,4 @@
-# reqression-tehran-house-price
+# regression-tehran-house-price
 
 Hello everyone!
 
